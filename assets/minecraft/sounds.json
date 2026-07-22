@@ -1,0 +1,41 @@
+{
+"entity.zombie.ambient": {
+        "replace": true,
+        "sounds": [
+            "djzc444:type/bzb/say1",
+            "djzc444:type/bzb/say2",
+            "djzc444:type/bzb/say3"
+        ],
+        "subtitle": "djzc.type_bzb"
+        },
+    "music_disc.relic": {
+        "replace": true,
+        "sounds": [
+            "djzc444:music/game/beginning_ct"
+        ]
+    },
+      "music_disc.wait": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/beginning_t"
+        ]
+      },
+      "music_disc.blocks": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/atk_d"
+        ]
+      },
+      "music.dragon": {
+        "replace": true,
+        "sounds": [
+          "djzc444:music/game/air_combat"
+        ]
+      },
+      "music_disc.pigstep": {
+        "replace": true,
+        "sounds": [
+            "djzc444:music/game/atk_c"
+        ]
+      }
+}
