@@ -35,7 +35,8 @@
       "music_disc.pigstep": {
         "replace": true,
         "sounds": [
-            "djzc444:music/game/atk_c"
+            "djzc444:music/game/atk_c_1",
+            "djzc444:music/game/atk_c_2"
         ]
       }
 }
