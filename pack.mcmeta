@@ -2,6 +2,10 @@
   "pack": {
   "min_format": 69,
   "max_format": [75, 0],
-  "description": "§c一个充满中国特色的冬战资源包，请把它放在“赛扬的的冬季战场”的上方"
+  "description": {
+    "translate": "djzc.redloong.mcmeta.desc",
+    "fallback":"一个充满中国特色的冬战资源包，请把它放在“赛扬的的冬季战场”的上方",
+    "color": "red"
+  }
   }
 }

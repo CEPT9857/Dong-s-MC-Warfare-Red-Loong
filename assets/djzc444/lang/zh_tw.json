@@ -1,7 +1,7 @@
 {
 	"resourcepack.loaded.detect": "您目前使用的冬戰資源包是：冬季戰場：雪域龍騰",
 	"djzc.advancement.root": "冬季戰場",
-	"djzc.advancement.root.desc": "「龍騰過海峽，冰原共此聲。」雪域龍騰製作組在此向全世界玩家問好，感謝您選擇了我們的資源包",
+	"djzc.advancement.root.desc": "「龍騰過海峽，冰原共此聲。」雪域龍騰製作組在此向中國台灣地區玩家問好，感謝您選擇了我們的資源包",
 	"djzc.advancement.count_kill20": "力微，飯否",
 	"djzc.advancement.count_kill30": "出入平安",
 	"djzc.advancement.stat_death10": "九尾狐只有九條命",
@@ -77,5 +77,6 @@
 	"djzc.wiki_bzb_4": "冬戰原版板載兵，用犧牲換取殺傷，是戰爭中最殘酷的交換比，開發者用自嘲消解了它的沉重。而雪域龍騰中的核彈兵，指向的是中國核武器研發史上那個「從未真正投下」的核彈。那是國家安全的基石，也是人類命運的達摩克利斯之劍。我們可以在遊戲裡模擬毀滅，但我們比任何人都清楚，和平有多可貴。",
 	"djzc.dialog.type_manage.preset1": "陸戰-聯合演訓",
 	"djzc.dialog.type_manage.preset3": "陸戰-長空鑄劍",
-	"djzc.dialog.type_manage.preset4": "陸戰-士兵突擊"
+	"djzc.dialog.type_manage.preset4": "陸戰-士兵突擊",
+	"djzc.redloong.mcmeta.desc": "一個充滿中國特色的冬戰資源包，請將它放在「賽揚的冬季戰場」的上方"
 }

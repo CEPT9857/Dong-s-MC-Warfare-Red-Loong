@@ -1,5 +1,5 @@
 {
-	"resourcepack.loaded.detect": "The Dong's MC Warfare resource pack you are using:: Dong's MC Warfare: Red Loong Pack",
+	"resourcepack.loaded.detect": "The Dong's MC Warfare resource pack you are using: Dong's MC Warfare: Red Loong Pack",
 	"djzc.dialog.eula_translate": "English translation by DeepSeek, welcome point out mistakes and provide suggestions.\nRed Loong Pack translation by CE_PT :)",
 
 	"djzc.advancement.root": "Dong's MC Warfare",
@@ -57,7 +57,7 @@
 	"djzc.light_pistol": "Tengloong (Soaring Loong)",
 	"djzc.nova": "Zhanxian(like mistletoe)",
 	"djzc.nova.desc": "Gods shall fall!",
-	"djzc.sanlian3": "Zhouyu(Cutter-Rian)",
+	"djzc.sanlian3": "Zhouyu(Cutter-Rain)",
 	"djzc.sanlian3.desc": "You and your cover are equally laughable.",
 	"djzc.type_ltjd.sword": "Zhiyun(Cloud-Weaver)",
 	"djzc.sanlian_fly": "Caiyu(Rain-Cutter)",
@@ -80,5 +80,6 @@
 	"djzc.wiki_bzb_4": "The original Banzai class exchanged sacrifice for lethality — the cruelest trade-off in war. The developers softened it with self-mockery. But the Nuclear class in Red Loong Pack points to a bomb that was \"never actually dropped\" — the cornerstone of national security, and the Sword of Damocles over humanity's fate. We may simulate destruction in games, but no one knows better than us how precious peace truly is.",
 	"djzc.dialog.type_manage.preset1": "Ground Combat - Joint Exercise",
 	"djzc.dialog.type_manage.preset3": "Ground Combat - Forging Swords in the Sky",
-	"djzc.dialog.type_manage.preset4": "Ground Combat - Soldier Assault"
+	"djzc.dialog.type_manage.preset4": "Ground Combat - Soldier Assault",
+	"djzc.redloong.mcmeta.desc": "A Dong's MC Warfare resource pack full of Chinese characteristics. Please place it above \"CE's MC Warfare\""
 }
