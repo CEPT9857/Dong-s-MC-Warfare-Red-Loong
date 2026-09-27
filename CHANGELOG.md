@@ -142,3 +142,5 @@ release——2026/09/09
 
 #### BUG修复
 - 修复了**pack.mcmeta**没有翻译键的BUG
+- 更新了许可证外链，使其正确的指向CC BY-NC-SA 4.0
+- 修复了CHANGELOG少了个N的BUG
