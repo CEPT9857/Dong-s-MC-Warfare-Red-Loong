@@ -142,6 +142,8 @@ release——2026/09/09
 
 #### 追加模型
 - 为**QSZ-92G**提供3D建模
+- **Blockbench工程文件**随资源包一并分发
+- 在文件夹中增加了明光铠的**Blockbench工程文件**，随资源包一并分发，受限于Minecraft Java版的机制限制，暂时无法实装
 
 #### BUG修复
 - 修复了**pack.mcmeta**没有翻译键的BUG
